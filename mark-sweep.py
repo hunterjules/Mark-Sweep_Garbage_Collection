@@ -1,4 +1,5 @@
-# Mark-Sweep garbage collection simulation for CPSC 3400
+# Mark-Sweep garbage collection simulation for CPSC 3400 at Seattle University 
+# Assignment topic credit to Professor Beatriz Diaz Acosta, code written my me.
 # Designed for file where the first line contains n, the number of heap blocks
 #    and subsequent heap blocks are identified using the numbers 0 through n-1.
 #    Each subsequent line contains an ordered pair in one of the following forms:
