@@ -1,7 +1,4 @@
-#Homework 3
-#CPSC3400
-#Jules Hunter
-#Mark-Sweep garbage collection simulation
+#Mark-Sweep garbage collection simulation for CPSC 3400
 
 import sys
 import string
